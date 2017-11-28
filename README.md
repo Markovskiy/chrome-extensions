@@ -19,6 +19,7 @@
 
 ## <a target="_blank" href="https://chrome.google.com/webstore/detail/google-analytics-debugger/jnkmfdileelhofjcijamephohjechhna">Google Analytics Debugger</a><br>
 <img src="https://lh3.googleusercontent.com/txT3ZUEahUZOmFU3AFAxOFC5GA2OtWcI95qNgdBay2uAPVMxgGOJNTSGjLHM0ncP3O5DjkzB5Ew=w640-h400-e365"><br>
+p.s. Yandex Metrika: `http://site-name.com?ym_debug=1`
 
 ## <a target="_blank" href="https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc">JSONView</a><br>
 <img src="https://lh3.googleusercontent.com/pnjK_SSE5ZRVXmS3gWpKuJtqyKQRU2DjodecE_Pm4oZX_2IT2b4Db3hP5GgO7vticFOnLyqpyQ=w640-h400-e365"><br>
