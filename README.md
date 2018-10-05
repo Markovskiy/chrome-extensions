@@ -1,7 +1,4 @@
 # Google Chrome extensions
-## <a target="_blank" href="https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc">Octotree</a><br>
-<img src="https://lh3.googleusercontent.com/SfJ7lk2uAy5gex-4hMEJO77VS3sbMINMMMbxUHneojhXS1YiAj1v6x-Po7xOgKfxQGwmzsYjbQ=w640-h400-e365"><br>
-
 ## <a target="_blank" href="https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn">Clear Cache</a><br>
 <img src="https://lh3.googleusercontent.com/_rjlM_Wxz-9p1KkAr3DxWL9B7DM9ORLS62X2QVDTPt3QH9bCRzkJ4juYLXF4JEOtpNWdWiOmHg=w640-h400-e365"><br>
 
@@ -30,6 +27,9 @@ p.s. Yandex Metrika: `http://site-name.com?_ym_debug=1`
 ## <a target="_blank" href="https://chrome.google.com/webstore/detail/liner/amciopbgphikbcmaffbmmibnbpiokfic">Liner</a><br>
 <img src="https://lh3.googleusercontent.com/U90i3gQGhup1ZS5ysJRqbUQaR2HTcxVMIX7lH2xVrPRmeIwb95czxJ0aMPhvG7b-WZBeGZfa=w640-h400-e365"><br>
 
+## <a target="_blank" href="https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc">Octotree</a><br>
+<img src="https://lh3.googleusercontent.com/SfJ7lk2uAy5gex-4hMEJO77VS3sbMINMMMbxUHneojhXS1YiAj1v6x-Po7xOgKfxQGwmzsYjbQ=w640-h400-e365"><br>
+
 ## <a target="_blank" href="https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi">PerfectPixel by WellDoneCode</a><br>
 <img src="https://lh3.googleusercontent.com/BEyiQtHAPVUAKRw8EPnir6fDwegM6FppJjRKVFg8V3IxooWpxH-RLi_O-WBxQgapb79wDJen4w=w640-h400-e365"><br>
 
@@ -44,6 +44,9 @@ p.s. Yandex Metrika: `http://site-name.com?_ym_debug=1`
 
 ## <a target="_blank" href="https://chrome.google.com/webstore/detail/simple-websocket-client/pfdhoblngboilpfeibdedpjgfnlcodoo">Simple WebSocket Client</a><br>
 <img src="https://lh3.googleusercontent.com/bEHoKg3ijfjaE8-RWTONDBZolc3tP2mLbyWanolCfLmpTHUyYPMSD5I4hKBfi81D2hVpVH_BfQ=w640-h400-e365"><br>
+
+## <a target="_blank" href="https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne">Stylus</a><br>
+<img src="https://lh3.googleusercontent.com/KEM2JAZCpnEpUoP_8P0HvQ2FPIENIAIoducAXz2uVKggF2tRToLsbLEVHrvPLO5rMa0Ehpi4xNI=w640-h400-e365"><br>
 
 ## <a target="_blank" href="https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg">The Great Suspender</a><br>
 <img src="https://lh3.googleusercontent.com/gFOtoB_ZoFuh3n6364ssa53cJEVXbPIULyp8uFosQJzla6VqTtF2sNJwDdBN9QW0F5eCz2Qg=w640-h400-e365"><br>
